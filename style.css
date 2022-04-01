@@ -1,0 +1,18 @@
+@font-face{
+    font-family:gameSquid;
+    src: url(fonts_file/KaushanScript-Regular);
+}
+
+.a1st {
+    font-family: 'Courier New', Courier, monospace ;
+    
+}
+.b2nd {
+    font-family: 'Send Flowers', cursive;
+}
+.c3rd  {
+     font-family:gameSquid;
+}
+.d4th {
+    
+}
