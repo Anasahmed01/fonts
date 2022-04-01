@@ -1,6 +1,6 @@
 @font-face{
     font-family:gameSquid;
-    src: url(fonts_file/KaushanScript-Regular);
+    src: url(./game-of-squids/Game\ Of\ Squids.ttf);
 }
 
 .a1st {
@@ -13,6 +13,16 @@
 .c3rd  {
      font-family:gameSquid;
 }
-.d4th {
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(68, 68, 238);
     
+}
+body{
+    background-color: rgb(189, 144, 144);
+}
+h1{
+    color: rgb(68, 68, 238);
+    font-family: gameSquid;
+
 }
